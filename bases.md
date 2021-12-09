@@ -1,4 +1,4 @@
-# Sitios y lugares de los super heroes
+# Bases de los super heroes
 
 1. Baticueva
 2. Atalaya
