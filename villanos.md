@@ -7,3 +7,5 @@
 4. Doomsday
 5. Deadshot
 6. Bane
+7. Hades
+8. Harley Queen
